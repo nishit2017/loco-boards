@@ -1,0 +1,18 @@
+body {
+    background-image: url(../img/halftone-yellow.png);
+}
+
+.logo {
+    font-family: 'Fontdiner Swanky', cursive;
+}
+
+.logo a {
+    color: rgba(0,0,0, .9);
+}
+
+.logo a:hover,
+.logo a:active {
+    text-decoration: none,
+}
+
+

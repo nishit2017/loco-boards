@@ -1,0 +1,8 @@
+pip freeze
+
+
+Django==2.0.2
+django-widget-tweaks==1.4.1
+Markdown==2.6.11
+pytz==2018.3
+
